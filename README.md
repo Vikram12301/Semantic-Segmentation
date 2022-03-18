@@ -1,6 +1,6 @@
 # Semantic-Segmentation
 
-This is a Tensorflow implementation of Semantic Segmentation.
+Implemented Semantic Segmentation in PyTorch and Tensorflow.
 
 # Dataset
 The dataset has been generated as part of the [lyft challenge](https://www.udacity.com/lyft-challenge)
